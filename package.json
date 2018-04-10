@@ -1,0 +1,11 @@
+{
+  "name": "cursor-helper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Michael Zinn",
+  "license": "MIT",
+  "devDependencies": {
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^5.0.5"
+  }
+}
